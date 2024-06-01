@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clara Gauer</h1>
-<h3 align="center">interested in Arduino, Machine Learning, Webpages and natural sciences</h3>
+<h3 align="center">interested in Arduino, Machine Learning, Optimization, natural sciences and of course: computer science </h3>
 
 How to reach me **claragauer2002@gmail.com**
 
