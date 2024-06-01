@@ -49,7 +49,7 @@ How to reach me **claragauer2002@gmail.com**
   </a> 
 </p>
 
-<p align="center">Because of data integrity, only files have been uploaded where I have the consent of my university and work, thus the statistics is a little bit skewed.</p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=claragauer&show_icons=true&locale=en&layout=compact" alt="claragauer" /></p>
+
+<p align="center">Because of data integrity, only files have been uploaded where I have the consent of my university and work, thus the statistics is a little bit skewed.</p>
 
