@@ -4,7 +4,7 @@
 How to reach me **claragauer2002@gmail.com**
 <h3 align="left">Know About My Experience:</h3>
 <p align="left">
-  <a href="https://github.com/claragauer/claragauer/Curriculum Vitae.pdf" target="_blank">View My Resume</a>
+  <a href="https://github.com/claragauer/claragauer/CurriculumVitae.pdf" target="_blank">View My Resume</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
